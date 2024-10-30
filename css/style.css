@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Shojumaru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Shojumaru&display=swap');
+
+:root{
+--color-general: #999 ;
+--color-titulos: #29373c;
+--fondo-gris: #f9faf2;
+--fondo-footer: #f49f28;
+
+}
+
+
+
+body p{
+	font-family: "Nanum Pen Script";
+	
+	
+	
+}
+header{
+	background-image: url("../img/bg-hero.png");
+	color:#FFFFFF;
+	position: relative;
+	
+}
+
+header a{
+	
+	font-family: "Shojumaru";
+	color:#FFFFFF;
+}
+
+footer{
+	text-align: center;
+	background-color: var(--fondo-footer);
+	padding-top:40px ;
+	padding-bottom:40px ;
+	color:#000000;
+}
+
+footer img{
+	width:25% ;
+	align-content: center;
+	height:25% ; 
+	
+}
+
+footer u{
+	color:#000000;
+}
+
+footer p{
+	padding-top: 15px;
+}
+
+#hero{
+	background-image: url("../img/bg-hero.png");
+	text-align: center;
+	color:#FFFFFF;
+	padding-top: 400px;
+	padding-bottom: 400px;
+	font-weight: 400;
+	
+}
+
+#hero h1{
+	font-family: "Shojumaru";
+	font-size: 60px;
+	
+}
+
+#hero h3{
+	font-size: 35px;
+	font-family: "Nanum Pen Script";
+}
+
+#hero h1,u{
+	color:var(--fondo-footer) ;
+	
+	
+	
+}
+
+#about{
+	font-family: "Nanum Pen Script";
+	text-align: center;
+	padding-top:100px ;
+	padding-bottom:250px ;
+	padding-left: 15px;
+	padding-right: 15px;
+	
+}
+#about img{
+	width:15%;
+	height:30% ;
+	
+}
+#about p{
+	color:var(--color-general);
+	
+	
+}
+#about h5,h2,h3{
+	color:var(--color-titulos);
+	
+}
+
+#about h2{
+	font-size: 50px;
+}
+#about h3{
+	font-size: 30px;
+	
+}
+
+
+#FAQ{
+	color:var(--color-general) ;
+	background-color:#E3FFDF;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+#FAQ h3,h2{
+	color:var(--color-titulos) ;
+	
+	
+}
+
+#FAQ img{
+	width:65%;
+	height: 85%;
+	margin-left: 100px;
+}
+
+#services{
+	text-align: center;
+	color:var(--color-general);
+	padding-top:100px ;
+	padding-bottom:100px ;
+	
+}
+
+#services h2{
+	color:var(--color-titulos);
+	font-size: 50px;
+	
+}
+
+#services p{
+	margin-left:200px ;
+	margin-right:200px ;
+	
+}
+
+#services b{
+	color:#000000;
+	
+}
+
+#services img{
+	width:70% ;
+	height:85% ;
+}
+
+
+
+
+
+
+
