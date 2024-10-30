@@ -128,6 +128,14 @@ footer p{
 	
 }
 
+#FAQ h2{
+	font-size: 50px;
+}
+#FAQ h3{
+	font-size: 30px;
+	
+}
+
 #FAQ img{
 	width:65%;
 	height: 85%;
