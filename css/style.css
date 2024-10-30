@@ -119,6 +119,7 @@ footer p{
 	background-color:#E3FFDF;
 	padding-top: 200px;
 	padding-bottom: 200px;
+	font-family: "Nanum Pen Script";
 }
 
 #FAQ h3,h2{
@@ -138,6 +139,7 @@ footer p{
 	color:var(--color-general);
 	padding-top:100px ;
 	padding-bottom:100px ;
+	font-family: "Nanum Pen Script";
 	
 }
 
